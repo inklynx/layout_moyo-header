@@ -5,7 +5,7 @@ body {
   --blue-primary: #00acdc;
 }
 
-header {
+.header__nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
